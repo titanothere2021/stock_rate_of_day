@@ -1,0 +1,1 @@
+# stock_rate_of_day
